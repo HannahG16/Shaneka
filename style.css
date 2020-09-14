@@ -1,0 +1,11 @@
+.banner {
+    background-color: black;
+    color: white;
+    
+    height: 200px;
+    width: 100%;
+}
+
+.title h1{
+    font-size: small;
+}
